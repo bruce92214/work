@@ -1,0 +1,15 @@
+<html><head>
+
+<style>
+.footer{
+height:50px;
+width:100%;
+position:absolute;
+bottom:0px;
+left:0px;
+background-color: #000000;
+}
+</style>
+</head>
+<div class="footer"></div>
+</html>
